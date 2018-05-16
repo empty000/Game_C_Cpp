@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526145286 source:d:\games\choose\who will be millionaire\wwbm\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
